@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Home](README.md)
+* [Welcome to the Trade Shops Wiki](README.md)
+
+## Guides
+
+* [Quick Start](guides/quick-start.md)
